@@ -10,7 +10,6 @@
   - user can edit a contact
   - user can search a contact by searching letters of contact name.
  # Checks
-  - Empty Checks for all fields.
   - Validation for contact number,name,mailId.
  # POJO
   - ContactFields class in model package.

@@ -10,3 +10,5 @@
 # Checks
   - Empty Checks for all fields.
   - Validation for bookId,price,bookName,issueDate,returnDate,status.
+# POJO
+  - Books class consists of gettters and setters of following fields(bookId,price,bookName,issueDate,returnDate,status).

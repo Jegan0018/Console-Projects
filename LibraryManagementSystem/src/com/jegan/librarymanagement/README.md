@@ -6,7 +6,7 @@
   - Admin can list all Books 
   - Admin can Issue a Book to user
   - Admin can display the issued book details
-  - When the user is returning a book far from due date,then Admin will fine him 10rupees per day.
+  - When the user is returning a book far from due date,then Admin will fine the user 10rupees per day.
 # Checks
   - Empty Checks for all fields.
   - Validation for bookId,price,bookName,issueDate,returnDate,status.
